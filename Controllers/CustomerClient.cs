@@ -7,6 +7,7 @@ namespace demogitflow.Controllers
 {
     public class CustomerClient
     {
-        
+        int edad;
+        public int Edad { get; set; }
     }
 }
